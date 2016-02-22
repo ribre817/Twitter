@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [x] User can sign in using OAuth login flow
 - [ ] User can view last 20 tweets from their home timeline
-- [ ] The current signed in user will be persisted across restarts
+- [x] The current signed in user will be persisted across restarts
 - [ ] In the home timeline, user can view tweet with the user profile picture, username, tweet text, and timestamp.
 - [ ] Retweeting and favoriting should increment the retweet and favorite count.
 
@@ -33,15 +33,13 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/cqqJqWc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-INCOMPLETE: I was unable to complete the Twitter app post-OAuth. This is because I tried to change from the previous video to the
-new video and it didn't all convert, so I have to start all the way over and the app will not be completed by tonight at
-midnight. 
+INCOMPLETE: I was unable to get the table view setup before my second deadline. I am struggling very hard with this class.
 
 ## License
 
