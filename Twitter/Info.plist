@@ -27,7 +27,7 @@
 			<string>Codepath.Twitter</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>cptwitterRian</string>
+				<string>twitterdemo</string>
 			</array>
 		</dict>
 	</array>
